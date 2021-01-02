@@ -1,0 +1,214 @@
+sheet	col	row	longname	input	keystrokes	comment
+			open-file	data.json	o	
+			open-file	data.json	o	
+data			columns-sheet		C	open Columns Sheet: edit column properties for current sheet
+data			expand-cols		g(	expand all visible columns of containers fully
+data	Individual[0].IndividualID		hide-col		-	hide current column
+data	Individual[0].Name		hide-col		-	hide current column
+data	Individual[0].Organization.OrganizationID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Address.AddressText		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Organization.Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[0].Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].IndividualID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.OrganizationID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Address.AddressText		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Organization.Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[1].Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].IndividualID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.OrganizationID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Address.AddressText		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Organization.Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[2].Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].IndividualID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.OrganizationID		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Address.AddressText		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Organization.Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Phones[0].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Phones[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Phones[1].PhoneType		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Websites[0].Website		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Websites[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Emails[0].ContactId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Individual[3].Emails[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Price		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Address.AddressText		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Photo[0].SequenceId		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Photo[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Parking[0].Name		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Parking[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Parking[1].Name		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.Parking[2].Name		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Property.OwnershipTypeGroupIds[0]		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Land.SizeTotal		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	AlternateURL.DetailsLink		contract-col		)	unexpand current column; restore original column and remove other columns at this level
+data	Land		hide-col		-	hide current column
+data	Individual		hide-col		-	hide current column
+data	RelativeDetailsURL		hide-col		-	hide current column
+data	StatusId		hide-col		-	hide current column
+data	PhotoChangeDateUTC		hide-col		-	hide current column
+data	Distance		hide-col		-	hide current column
+data	RelativeURLEn		hide-col		-	hide current column
+data	RelativeURLFr		hide-col		-	hide current column
+data	PriceChangeDateUTC		hide-col		-	hide current column
+data	OpenHouseInsertDateUTC		hide-col		-	hide current column
+data	ListingTimeZone		hide-col		-	hide current column
+data	ListingBoundary		hide-col		-	hide current column
+data	ListingGMT		hide-col		-	hide current column
+data	HasNewImageUpdate		hide-col		-	hide current column
+data	Id		hide-col		-	hide current column
+data	MlsNumber		hide-col		-	hide current column
+data	PublicRemarks		hide-col		-	hide current column
+data	Business		hide-col		-	hide current column
+data	AlternateURL		hide-col		-	hide current column
+data	Property		expand-col		(	expand current column of containers fully
+data	Property.Address.DisseminationArea		hide-col		-	hide current column
+data	Property.Address.PermitShowAddress		hide-col		-	hide current column
+data	Property.Photo[0].SequenceId		hide-col		-	hide current column
+data	Property.Photo[0].HighResPath		hide-col		-	hide current column
+data	Property.Photo[0].MedResPath		hide-col		-	hide current column
+data	Property.Photo[0].LowResPath		hide-col		-	hide current column
+data	Property.Photo[0].Description		hide-col		-	hide current column
+data	Property.Photo[0].LastUpdated		hide-col		-	hide current column
+data	Property.FarmType		hide-col		-	hide current column
+data	Property.ConvertedPrice		hide-col		-	hide current column
+data	Property.LeaseRent		freq-col		F	open Frequency Table grouped on current column, with aggregations of other columns
+data	Property.LeaseRentUnformattedValue		freq-col		F	open Frequency Table grouped on current column, with aggregations of other columns
+data	Property.LeaseRent		hide-col		-	hide current column
+data	Property.LeaseRentUnformattedValue		hide-col		-	hide current column
+data	Property.OwnershipTypeGroupIds[1]		freq-col		F	open Frequency Table grouped on current column, with aggregations of other columns
+data	Property.OwnershipTypeGroupIds[1]		hide-col		-	hide current column
+data	Property.OwnershipTypeGroupIds[0]		hide-col		-	hide current column
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-left		H	slide current column left
+data	Property.PriceUnformattedValue		slide-right		L	slide current column right
+data	Property.Address.Longitude		expand-col		(	expand current column of containers fully
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Latitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		slide-left		H	slide current column left
+data	Property.Address.Longitude		key-col		!	toggle current column as a key column
+data	Property.Address.Latitude		key-col		!	toggle current column as a key column
+data	Property.Address.Latitude		key-col		!	toggle current column as a key column
+data	Building.SizeInterior		slide-left		H	slide current column left
+data	Building.SizeInterior		slide-left		H	slide current column left
+data	Building.SizeInterior		slide-left		H	slide current column left
+data	Building.SizeInterior		slide-left		H	slide current column left
+data	Building.SizeInterior		slide-left		H	slide current column left
+data	Building.SizeInterior		slide-right		L	slide current column right

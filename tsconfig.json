@@ -1,0 +1,61 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "allowUmdGlobalAccess": false,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "alwaysStrict": true,
+    "assumeChangesOnlyAffectDirectDependencies": false,
+    "checkJs": false,
+    "disableSizeLimit": false,
+    "esModuleInterop": true,
+    "generateCpuProfile": "profile.cpuprofile",
+    "jsx": "react",
+    "jsxFactory": "React.createElement",
+    "jsxFragmentFactory": "React.Fragment",
+    "lib": [
+      "dom",
+      "ESNext",
+      "ESNext.Promise"
+    ],
+    "module": "CommonJS",
+    "noFallthroughCasesInSwitch": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitUseStrict": false,
+    "noStrictGenericChecks": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "preserveConstEnums": false,
+    "removeComments": false,
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "suppressExcessPropertyErrors": false,
+    "suppressImplicitAnyIndexErrors": false,
+    "target": "ES6",
+    "types": [
+      "node"
+    ],
+    "useDefineForClassFields": false
+  },
+  "files": [
+    "./lib.d.ts",
+    "./datacleanup.ts",
+    "./download.ts"
+  ],
+  "ts-node": {
+    "files": [
+      "./lib.d.ts",
+      "./datacleanup.ts",
+      "./download.ts"
+    ]
+  },
+  "typeAcquisition": {
+    "enable": true
+  }
+}

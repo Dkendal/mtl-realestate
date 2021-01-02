@@ -1,0 +1,2052 @@
+{
+  "ErrorCode": {
+    "Id": 200,
+    "Description": "Success - OK",
+    "Status": "Pins-Via-Cache:false;Sidebar-Items-Via-Cache:0;",
+    "ProductName": "! Push to PR-Stage - Realtor API (Maintenance)^29808 [Monday, November 23, 2020 9:27:13 AM]",
+    "Version": "1.0.7632.17022"
+  },
+  "Paging": {
+    "RecordsPerPage": 200,
+    "CurrentPage": 6,
+    "TotalRecords": 336,
+    "MaxRecords": 500,
+    "TotalPages": 2,
+    "RecordsShowing": 336,
+    "Pins": 290
+  },
+  "Results": [],
+  "Pins": [
+    {
+      "key": "L10|45.392|-73.594",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.594",
+      "latitude": "45.392"
+    },
+    {
+      "key": "L10|45.398|-73.53",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.53",
+      "latitude": "45.398"
+    },
+    {
+      "key": "L10|45.426|-73.608",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.608",
+      "latitude": "45.426"
+    },
+    {
+      "key": "L10|45.434|-73.61",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.61",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.434|-73.68",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.68",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.438|-73.618",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.618",
+      "latitude": "45.438"
+    },
+    {
+      "key": "L10|45.448|-73.606",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.606",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.448|-73.608",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.608",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.45|-73.606",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.606",
+      "latitude": "45.45"
+    },
+    {
+      "key": "L10|45.462|-73.792",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.792",
+      "latitude": "45.462"
+    },
+    {
+      "key": "L10|45.464|-73.63",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.63",
+      "latitude": "45.464"
+    },
+    {
+      "key": "L10|45.494|-73.648",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.648",
+      "latitude": "45.494"
+    },
+    {
+      "key": "L10|45.5|-73.702",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.702",
+      "latitude": "45.5"
+    },
+    {
+      "key": "L10|45.518|-73.564",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.564",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.522|-73.748",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.748",
+      "latitude": "45.522"
+    },
+    {
+      "key": "L10|45.522|-73.794",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.794",
+      "latitude": "45.522"
+    },
+    {
+      "key": "L10|45.524|-73.718",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.718",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.53|-73.68",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.68",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.53|-73.696",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.696",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.53|-73.698",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.698",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.532|-73.754",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.754",
+      "latitude": "45.532"
+    },
+    {
+      "key": "L10|45.534|-73.712",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.712",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.538|-73.694",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.694",
+      "latitude": "45.538"
+    },
+    {
+      "key": "L10|45.54|-73.75",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.75",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.542|-73.57",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.57",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.542|-73.758",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.758",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.544|-73.712",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.712",
+      "latitude": "45.544"
+    },
+    {
+      "key": "L10|45.548|-73.57",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.57",
+      "latitude": "45.548"
+    },
+    {
+      "key": "L10|45.394|-73.568",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.568",
+      "latitude": "45.394"
+    },
+    {
+      "key": "L10|45.396|-73.492",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.492",
+      "latitude": "45.396"
+    },
+    {
+      "key": "L10|45.396|-73.546",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.546",
+      "latitude": "45.396"
+    },
+    {
+      "key": "L10|45.404|-73.51",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.51",
+      "latitude": "45.404"
+    },
+    {
+      "key": "L10|45.43|-73.666",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.666",
+      "latitude": "45.43"
+    },
+    {
+      "key": "L10|45.432|-73.6",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.6",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.434|-73.6",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.6",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.438|-73.664",
+      "propertyId": "",
+      "count": 3,
+      "longitude": "-73.664",
+      "latitude": "45.438"
+    },
+    {
+      "key": "L10|45.438|-73.734",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.734",
+      "latitude": "45.438"
+    },
+    {
+      "key": "L10|45.44|-73.63",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.63",
+      "latitude": "45.44"
+    },
+    {
+      "key": "L10|45.44|-73.736",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.736",
+      "latitude": "45.44"
+    },
+    {
+      "key": "L10|45.442|-73.492",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.492",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.448|-73.488",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.488",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.448|-73.602",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.602",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.448|-73.65",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.65",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.45|-73.494",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.494",
+      "latitude": "45.45"
+    },
+    {
+      "key": "L10|45.46|-73.484",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.484",
+      "latitude": "45.46"
+    },
+    {
+      "key": "L10|45.468|-73.548",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.548",
+      "latitude": "45.468"
+    },
+    {
+      "key": "L10|45.47|-73.632",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.632",
+      "latitude": "45.47"
+    },
+    {
+      "key": "L10|45.486|-73.796",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.796",
+      "latitude": "45.486"
+    },
+    {
+      "key": "L10|45.502|-73.676",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.676",
+      "latitude": "45.502"
+    },
+    {
+      "key": "L10|45.502|-73.792",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.792",
+      "latitude": "45.502"
+    },
+    {
+      "key": "L10|45.504|-73.574",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.574",
+      "latitude": "45.504"
+    },
+    {
+      "key": "L10|45.504|-73.662",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.662",
+      "latitude": "45.504"
+    },
+    {
+      "key": "L10|45.506|-73.626",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.626",
+      "latitude": "45.506"
+    },
+    {
+      "key": "L10|45.518|-73.556",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.556",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.518|-73.712",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.712",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.52|-73.566",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.566",
+      "latitude": "45.52"
+    },
+    {
+      "key": "L10|45.52|-73.67",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.67",
+      "latitude": "45.52"
+    },
+    {
+      "key": "L10|45.526|-73.754",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.754",
+      "latitude": "45.526"
+    },
+    {
+      "key": "L10|45.528|-73.586",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.586",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.528|-73.774",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.774",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.532|-73.76",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.76",
+      "latitude": "45.532"
+    },
+    {
+      "key": "L10|45.534|-73.76",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.76",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.538|-73.742",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.742",
+      "latitude": "45.538"
+    },
+    {
+      "key": "L10|45.542|-73.604",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.604",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.542|-73.736",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.736",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.548|-73.718",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.718",
+      "latitude": "45.548"
+    },
+    {
+      "key": "L10|45.388|-73.534",
+      "propertyId": "",
+      "count": 3,
+      "longitude": "-73.534",
+      "latitude": "45.388"
+    },
+    {
+      "key": "L10|45.41|-73.504",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.504",
+      "latitude": "45.41"
+    },
+    {
+      "key": "L10|45.422|-73.616",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.616",
+      "latitude": "45.422"
+    },
+    {
+      "key": "L10|45.432|-73.608",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.608",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.434|-73.664",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.664",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.442|-73.712",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.712",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.45|-73.49",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.49",
+      "latitude": "45.45"
+    },
+    {
+      "key": "L10|45.452|-73.764",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.764",
+      "latitude": "45.452"
+    },
+    {
+      "key": "L10|45.452|-73.782",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.782",
+      "latitude": "45.452"
+    },
+    {
+      "key": "L10|45.454|-73.766",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.766",
+      "latitude": "45.454"
+    },
+    {
+      "key": "L10|45.456|-73.494",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.494",
+      "latitude": "45.456"
+    },
+    {
+      "key": "L10|45.464|-73.574",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.574",
+      "latitude": "45.464"
+    },
+    {
+      "key": "L10|45.464|-73.654",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.654",
+      "latitude": "45.464"
+    },
+    {
+      "key": "L10|45.492|-73.494",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.494",
+      "latitude": "45.492"
+    },
+    {
+      "key": "L10|45.492|-73.57",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.57",
+      "latitude": "45.492"
+    },
+    {
+      "key": "L10|45.492|-73.802",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.802",
+      "latitude": "45.492"
+    },
+    {
+      "key": "L10|45.514|-73.496",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.496",
+      "latitude": "45.514"
+    },
+    {
+      "key": "L10|45.518|-73.802",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.802",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.53|-73.694",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.694",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.53|-73.778",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.778",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.536|-73.69",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.69",
+      "latitude": "45.536"
+    },
+    {
+      "key": "L10|45.538|-73.752",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.752",
+      "latitude": "45.538"
+    },
+    {
+      "key": "L10|45.542|-73.762",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.762",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.546|-73.728",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.728",
+      "latitude": "45.546"
+    },
+    {
+      "key": "L10|45.55|-73.776",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.776",
+      "latitude": "45.55"
+    },
+    {
+      "key": "L10|45.388|-73.592",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.592",
+      "latitude": "45.388"
+    },
+    {
+      "key": "L10|45.39|-73.568",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.568",
+      "latitude": "45.39"
+    },
+    {
+      "key": "L10|45.396|-73.518",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.518",
+      "latitude": "45.396"
+    },
+    {
+      "key": "L10|45.418|-73.492",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.492",
+      "latitude": "45.418"
+    },
+    {
+      "key": "L10|45.426|-73.606",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.606",
+      "latitude": "45.426"
+    },
+    {
+      "key": "L10|45.44|-73.746",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.746",
+      "latitude": "45.44"
+    },
+    {
+      "key": "L10|45.444|-73.652",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.652",
+      "latitude": "45.444"
+    },
+    {
+      "key": "L10|45.446|-73.718",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.718",
+      "latitude": "45.446"
+    },
+    {
+      "key": "L10|45.448|-73.482",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.482",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.46|-73.494",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.494",
+      "latitude": "45.46"
+    },
+    {
+      "key": "L10|45.462|-73.596",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.596",
+      "latitude": "45.462"
+    },
+    {
+      "key": "L10|45.474|-73.492",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.492",
+      "latitude": "45.474"
+    },
+    {
+      "key": "L10|45.474|-73.66",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.66",
+      "latitude": "45.474"
+    },
+    {
+      "key": "L10|45.476|-73.612",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.612",
+      "latitude": "45.476"
+    },
+    {
+      "key": "L10|45.476|-73.63",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.63",
+      "latitude": "45.476"
+    },
+    {
+      "key": "L10|45.488|-73.576",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.576",
+      "latitude": "45.488"
+    },
+    {
+      "key": "L10|45.492|-73.576",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.576",
+      "latitude": "45.492"
+    },
+    {
+      "key": "L10|45.498|-73.5",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.5",
+      "latitude": "45.498"
+    },
+    {
+      "key": "L10|45.498|-73.584",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.584",
+      "latitude": "45.498"
+    },
+    {
+      "key": "L10|45.5|-73.648",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.648",
+      "latitude": "45.5"
+    },
+    {
+      "key": "L10|45.5|-73.688",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.688",
+      "latitude": "45.5"
+    },
+    {
+      "key": "L10|45.502|-73.698",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.698",
+      "latitude": "45.502"
+    },
+    {
+      "key": "L10|45.504|-73.704",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.704",
+      "latitude": "45.504"
+    },
+    {
+      "key": "L10|45.508|-73.576",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.576",
+      "latitude": "45.508"
+    },
+    {
+      "key": "L10|45.518|-73.562",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.562",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.522|-73.596",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.596",
+      "latitude": "45.522"
+    },
+    {
+      "key": "L10|45.524|-73.786",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.786",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.526|-73.696",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.696",
+      "latitude": "45.526"
+    },
+    {
+      "key": "L10|45.526|-73.75",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.75",
+      "latitude": "45.526"
+    },
+    {
+      "key": "L10|45.528|-73.562",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.562",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.534|-73.496",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.496",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.534|-73.672",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.672",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.536|-73.736",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.736",
+      "latitude": "45.536"
+    },
+    {
+      "key": "L10|45.54|-73.742",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.742",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.542|-73.756",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.756",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.544|-73.482",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.482",
+      "latitude": "45.544"
+    },
+    {
+      "key": "L10|45.544|-73.546",
+      "propertyId": "",
+      "count": 3,
+      "longitude": "-73.546",
+      "latitude": "45.544"
+    },
+    {
+      "key": "L10|45.548|-73.708",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.708",
+      "latitude": "45.548"
+    },
+    {
+      "key": "L10|45.548|-73.716",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.716",
+      "latitude": "45.548"
+    },
+    {
+      "key": "L10|45.548|-73.77",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.77",
+      "latitude": "45.548"
+    },
+    {
+      "key": "L10|45.398|-73.75",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.75",
+      "latitude": "45.398"
+    },
+    {
+      "key": "L10|45.402|-73.566",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.566",
+      "latitude": "45.402"
+    },
+    {
+      "key": "L10|45.42|-73.49",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.49",
+      "latitude": "45.42"
+    },
+    {
+      "key": "L10|45.43|-73.604",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.604",
+      "latitude": "45.43"
+    },
+    {
+      "key": "L10|45.434|-73.594",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.594",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.434|-73.672",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.672",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.436|-73.632",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.632",
+      "latitude": "45.436"
+    },
+    {
+      "key": "L10|45.44|-73.614",
+      "propertyId": "",
+      "count": 3,
+      "longitude": "-73.614",
+      "latitude": "45.44"
+    },
+    {
+      "key": "L10|45.45|-73.77",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.77",
+      "latitude": "45.45"
+    },
+    {
+      "key": "L10|45.454|-73.598",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.598",
+      "latitude": "45.454"
+    },
+    {
+      "key": "L10|45.456|-73.496",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.496",
+      "latitude": "45.456"
+    },
+    {
+      "key": "L10|45.456|-73.664",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.664",
+      "latitude": "45.456"
+    },
+    {
+      "key": "L10|45.46|-73.496",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.496",
+      "latitude": "45.46"
+    },
+    {
+      "key": "L10|45.46|-73.796",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.796",
+      "latitude": "45.46"
+    },
+    {
+      "key": "L10|45.464|-73.496",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.496",
+      "latitude": "45.464"
+    },
+    {
+      "key": "L10|45.464|-73.638",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.638",
+      "latitude": "45.464"
+    },
+    {
+      "key": "L10|45.47|-73.592",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.592",
+      "latitude": "45.47"
+    },
+    {
+      "key": "L10|45.47|-73.612",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.612",
+      "latitude": "45.47"
+    },
+    {
+      "key": "L10|45.48|-73.552",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.552",
+      "latitude": "45.48"
+    },
+    {
+      "key": "L10|45.488|-73.568",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.568",
+      "latitude": "45.488"
+    },
+    {
+      "key": "L10|45.49|-73.512",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.512",
+      "latitude": "45.49"
+    },
+    {
+      "key": "L10|45.49|-73.578",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.578",
+      "latitude": "45.49"
+    },
+    {
+      "key": "L10|45.492|-73.778",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.778",
+      "latitude": "45.492"
+    },
+    {
+      "key": "L10|45.498|-73.654",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.654",
+      "latitude": "45.498"
+    },
+    {
+      "key": "L10|45.504|-73.676",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.676",
+      "latitude": "45.504"
+    },
+    {
+      "key": "L10|45.506|-73.556",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.556",
+      "latitude": "45.506"
+    },
+    {
+      "key": "L10|45.508|-73.776",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.776",
+      "latitude": "45.508"
+    },
+    {
+      "key": "L10|45.512|-73.482",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.482",
+      "latitude": "45.512"
+    },
+    {
+      "key": "L10|45.522|-73.778",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.778",
+      "latitude": "45.522"
+    },
+    {
+      "key": "L10|45.528|-73.668",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.668",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.532|-73.766",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.766",
+      "latitude": "45.532"
+    },
+    {
+      "key": "L10|45.534|-73.512",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.512",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.538|-73.586",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.586",
+      "latitude": "45.538"
+    },
+    {
+      "key": "L10|45.542|-73.56",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.56",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.55|-73.718",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.718",
+      "latitude": "45.55"
+    },
+    {
+      "key": "L10|45.39|-73.58",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.58",
+      "latitude": "45.39"
+    },
+    {
+      "key": "L10|45.392|-73.55",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.55",
+      "latitude": "45.392"
+    },
+    {
+      "key": "L10|45.404|-73.508",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.508",
+      "latitude": "45.404"
+    },
+    {
+      "key": "L10|45.408|-73.508",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.508",
+      "latitude": "45.408"
+    },
+    {
+      "key": "L10|45.412|-73.492",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.492",
+      "latitude": "45.412"
+    },
+    {
+      "key": "L10|45.424|-73.65",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.65",
+      "latitude": "45.424"
+    },
+    {
+      "key": "L10|45.43|-73.602",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.602",
+      "latitude": "45.43"
+    },
+    {
+      "key": "L10|45.432|-73.656",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.656",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.436|-73.64",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.64",
+      "latitude": "45.436"
+    },
+    {
+      "key": "L10|45.436|-73.664",
+      "propertyId": "",
+      "count": 6,
+      "longitude": "-73.664",
+      "latitude": "45.436"
+    },
+    {
+      "key": "L10|45.438|-73.708",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.708",
+      "latitude": "45.438"
+    },
+    {
+      "key": "L10|45.442|-73.676",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.676",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.442|-73.686",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.686",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.452|-73.496",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.496",
+      "latitude": "45.452"
+    },
+    {
+      "key": "L10|45.452|-73.586",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.586",
+      "latitude": "45.452"
+    },
+    {
+      "key": "L10|45.454|-73.488",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.488",
+      "latitude": "45.454"
+    },
+    {
+      "key": "L10|45.454|-73.596",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.596",
+      "latitude": "45.454"
+    },
+    {
+      "key": "L10|45.466|-73.536",
+      "propertyId": "",
+      "count": 3,
+      "longitude": "-73.536",
+      "latitude": "45.466"
+    },
+    {
+      "key": "L10|45.47|-73.49",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.49",
+      "latitude": "45.47"
+    },
+    {
+      "key": "L10|45.472|-73.588",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.588",
+      "latitude": "45.472"
+    },
+    {
+      "key": "L10|45.488|-73.566",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.566",
+      "latitude": "45.488"
+    },
+    {
+      "key": "L10|45.488|-73.65",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.65",
+      "latitude": "45.488"
+    },
+    {
+      "key": "L10|45.49|-73.652",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.652",
+      "latitude": "45.49"
+    },
+    {
+      "key": "L10|45.49|-73.78",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.78",
+      "latitude": "45.49"
+    },
+    {
+      "key": "L10|45.494|-73.5",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.5",
+      "latitude": "45.494"
+    },
+    {
+      "key": "L10|45.496|-73.64",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.64",
+      "latitude": "45.496"
+    },
+    {
+      "key": "L10|45.498|-73.506",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.506",
+      "latitude": "45.498"
+    },
+    {
+      "key": "L10|45.508|-73.716",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.716",
+      "latitude": "45.508"
+    },
+    {
+      "key": "L10|45.51|-73.562",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.562",
+      "latitude": "45.51"
+    },
+    {
+      "key": "L10|45.514|-73.502",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.502",
+      "latitude": "45.514"
+    },
+    {
+      "key": "L10|45.516|-73.628",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.628",
+      "latitude": "45.516"
+    },
+    {
+      "key": "L10|45.516|-73.69",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.69",
+      "latitude": "45.516"
+    },
+    {
+      "key": "L10|45.518|-73.588",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.588",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.518|-73.678",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.678",
+      "latitude": "45.518"
+    },
+    {
+      "key": "L10|45.522|-73.566",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.566",
+      "latitude": "45.522"
+    },
+    {
+      "key": "L10|45.524|-73.59",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.59",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.524|-73.678",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.678",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.524|-73.696",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.696",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.526|-73.484",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.484",
+      "latitude": "45.526"
+    },
+    {
+      "key": "L10|45.526|-73.558",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.558",
+      "latitude": "45.526"
+    },
+    {
+      "key": "L10|45.526|-73.7",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.7",
+      "latitude": "45.526"
+    },
+    {
+      "key": "L10|45.528|-73.754",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.754",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.528|-73.768",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.768",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.53|-73.754",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.754",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.532|-73.492",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.492",
+      "latitude": "45.532"
+    },
+    {
+      "key": "L10|45.552|-73.62",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.62",
+      "latitude": "45.552"
+    },
+    {
+      "key": "L10|45.552|-73.64",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.64",
+      "latitude": "45.552"
+    },
+    {
+      "key": "L10|45.552|-73.702",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.702",
+      "latitude": "45.552"
+    },
+    {
+      "key": "L10|45.388|-73.514",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.514",
+      "latitude": "45.388"
+    },
+    {
+      "key": "L10|45.392|-73.554",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.554",
+      "latitude": "45.392"
+    },
+    {
+      "key": "L10|45.402|-73.522",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.522",
+      "latitude": "45.402"
+    },
+    {
+      "key": "L10|45.416|-73.488",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.488",
+      "latitude": "45.416"
+    },
+    {
+      "key": "L10|45.43|-73.6",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.6",
+      "latitude": "45.43"
+    },
+    {
+      "key": "L10|45.432|-73.49",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.49",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.432|-73.612",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.612",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.432|-73.614",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.614",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.434|-73.488",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.488",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.434|-73.634",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.634",
+      "latitude": "45.434"
+    },
+    {
+      "key": "L10|45.442|-73.664",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.664",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.442|-73.71",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.71",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.456|-73.576",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.576",
+      "latitude": "45.456"
+    },
+    {
+      "key": "L10|45.458|-73.784",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.784",
+      "latitude": "45.458"
+    },
+    {
+      "key": "L10|45.472|-73.656",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.656",
+      "latitude": "45.472"
+    },
+    {
+      "key": "L10|45.478|-73.656",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.656",
+      "latitude": "45.478"
+    },
+    {
+      "key": "L10|45.494|-73.558",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.558",
+      "latitude": "45.494"
+    },
+    {
+      "key": "L10|45.516|-73.688",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.688",
+      "latitude": "45.516"
+    },
+    {
+      "key": "L10|45.52|-73.488",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.488",
+      "latitude": "45.52"
+    },
+    {
+      "key": "L10|45.52|-73.502",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.502",
+      "latitude": "45.52"
+    },
+    {
+      "key": "L10|45.52|-73.694",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.694",
+      "latitude": "45.52"
+    },
+    {
+      "key": "L10|45.524|-73.576",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.576",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.524|-73.692",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.692",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.524|-73.7",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.7",
+      "latitude": "45.524"
+    },
+    {
+      "key": "L10|45.528|-73.756",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.756",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.536|-73.71",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.71",
+      "latitude": "45.536"
+    },
+    {
+      "key": "L10|45.536|-73.768",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.768",
+      "latitude": "45.536"
+    },
+    {
+      "key": "L10|45.538|-73.59",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.59",
+      "latitude": "45.538"
+    },
+    {
+      "key": "L10|45.54|-73.73",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.73",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.54|-73.736",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.736",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.54|-73.762",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.762",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.546|-73.54",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.54",
+      "latitude": "45.546"
+    },
+    {
+      "key": "L10|45.55|-73.67",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.67",
+      "latitude": "45.55"
+    },
+    {
+      "key": "L10|45.552|-73.554",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.554",
+      "latitude": "45.552"
+    },
+    {
+      "key": "L10|45.384|-73.578",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.578",
+      "latitude": "45.384"
+    },
+    {
+      "key": "L10|45.392|-73.564",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.564",
+      "latitude": "45.392"
+    },
+    {
+      "key": "L10|45.396|-73.582",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.582",
+      "latitude": "45.396"
+    },
+    {
+      "key": "L10|45.432|-73.606",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.606",
+      "latitude": "45.432"
+    },
+    {
+      "key": "L10|45.442|-73.614",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.614",
+      "latitude": "45.442"
+    },
+    {
+      "key": "L10|45.446|-73.608",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.608",
+      "latitude": "45.446"
+    },
+    {
+      "key": "L10|45.448|-73.554",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.554",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.448|-73.752",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.752",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.448|-73.78",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.78",
+      "latitude": "45.448"
+    },
+    {
+      "key": "L10|45.452|-73.494",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.494",
+      "latitude": "45.452"
+    },
+    {
+      "key": "L10|45.452|-73.598",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.598",
+      "latitude": "45.452"
+    },
+    {
+      "key": "L10|45.46|-73.594",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.594",
+      "latitude": "45.46"
+    },
+    {
+      "key": "L10|45.466|-73.538",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.538",
+      "latitude": "45.466"
+    },
+    {
+      "key": "L10|45.47|-73.616",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.616",
+      "latitude": "45.47"
+    },
+    {
+      "key": "L10|45.472|-73.61",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.61",
+      "latitude": "45.472"
+    },
+    {
+      "key": "L10|45.474|-73.658",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.658",
+      "latitude": "45.474"
+    },
+    {
+      "key": "L10|45.478|-73.502",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.502",
+      "latitude": "45.478"
+    },
+    {
+      "key": "L10|45.478|-73.658",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.658",
+      "latitude": "45.478"
+    },
+    {
+      "key": "L10|45.48|-73.556",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.556",
+      "latitude": "45.48"
+    },
+    {
+      "key": "L10|45.48|-73.662",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.662",
+      "latitude": "45.48"
+    },
+    {
+      "key": "L10|45.484|-73.616",
+      "propertyId": "",
+      "count": 2,
+      "longitude": "-73.616",
+      "latitude": "45.484"
+    },
+    {
+      "key": "L10|45.494|-73.566",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.566",
+      "latitude": "45.494"
+    },
+    {
+      "key": "L10|45.498|-73.586",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.586",
+      "latitude": "45.498"
+    },
+    {
+      "key": "L10|45.5|-73.49",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.49",
+      "latitude": "45.5"
+    },
+    {
+      "key": "L10|45.506|-73.674",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.674",
+      "latitude": "45.506"
+    },
+    {
+      "key": "L10|45.508|-73.802",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.802",
+      "latitude": "45.508"
+    },
+    {
+      "key": "L10|45.514|-73.498",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.498",
+      "latitude": "45.514"
+    },
+    {
+      "key": "L10|45.528|-73.55",
+      "propertyId": "",
+      "count": 3,
+      "longitude": "-73.55",
+      "latitude": "45.528"
+    },
+    {
+      "key": "L10|45.53|-73.7",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.7",
+      "latitude": "45.53"
+    },
+    {
+      "key": "L10|45.532|-73.516",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.516",
+      "latitude": "45.532"
+    },
+    {
+      "key": "L10|45.532|-73.702",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.702",
+      "latitude": "45.532"
+    },
+    {
+      "key": "L10|45.534|-73.556",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.556",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.534|-73.566",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.566",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.534|-73.744",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.744",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.534|-73.778",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.778",
+      "latitude": "45.534"
+    },
+    {
+      "key": "L10|45.538|-73.798",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.798",
+      "latitude": "45.538"
+    },
+    {
+      "key": "L10|45.54|-73.486",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.486",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.54|-73.756",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.756",
+      "latitude": "45.54"
+    },
+    {
+      "key": "L10|45.542|-73.574",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.574",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.542|-73.73",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.73",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.542|-73.742",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.742",
+      "latitude": "45.542"
+    },
+    {
+      "key": "L10|45.548|-73.552",
+      "propertyId": "",
+      "count": 1,
+      "longitude": "-73.552",
+      "latitude": "45.548"
+    }
+  ],
+  "GroupingLevel": "10"
+}
