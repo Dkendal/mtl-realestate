@@ -1,0 +1,12 @@
+## start notebook
+From the base of the repo
+```sh
+docker run -p 8888:8888 -v "$PWD":/home/jovyan/work jupyter/scipy-notebook
+```
+
+Then look at the logs and open a link that looks like `http://127.0.0.1:8888/?token=aaabbbccc`
+
+Under the folder /notebooks, there will be notebooks you can open and run.  
+You can run all cell by clicking `Kernel >> Restart & Run All`.  
+
+You can also look at the generated HTML file.
