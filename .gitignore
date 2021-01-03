@@ -1,2 +1,4 @@
 node_modules
 *.js
+notebooks/.ipynb_checkpoints
+.DS_Store
